@@ -1,0 +1,2 @@
+# resolutionbazaar
+GitHub Pages
